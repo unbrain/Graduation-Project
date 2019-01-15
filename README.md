@@ -2,4 +2,4 @@
 
 ---
 
-<p align="center">![](https://img.shields.io/badge/python-3.7-blue.svg)</p>
+![](https://img.shields.io/badge/python-3.7.2-green.svg)
